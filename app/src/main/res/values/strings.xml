@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iris Router</string>
+    <string name="main_title">MainActivity</string>
+
+    <string name="main_message_success">Absolutely correct</string>
+    <string name="main_message_failure">Better luck next time!</string>
+</resources>
